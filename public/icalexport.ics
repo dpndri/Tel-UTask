@@ -1,0 +1,1070 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Moodle Pty Ltd//NONSGML Moodle Version 2024100712.01//EN
+VERSION:2.0
+BEGIN:VEVENT
+UID:204969@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 3 opens
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 01/10/2026\, PUKU
+	L: 08:30 WIB S.D. 01/10/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diber
+	ikan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah
+	 NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah
+	 selama: 50 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261001T091801Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261001T013000Z
+DTEND:20261001T013000Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10754@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #2 closes
+DESCRIPTION:Kuiz Wajib dikerjakan perorangan\nBatas waktu pengerjaan :\n\nA
+	TTEMPT  BOLEH 3X\, NILAI DIRATA-RATAKAN\n\nDURASI WAKTU : 20 MENIT\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20260926T061637Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261001T165300Z
+DTEND:20261001T165300Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:204970@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 3 closes
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 01/10/2026\, PUKU
+	L: 08:30 WIB S.D. 01/10/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diber
+	ikan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah
+	 NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah
+	 selama: 50 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261001T091801Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261001T165900Z
+DTEND:20261001T165900Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13483@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 3 opens
+DESCRIPTION:	* Diberikan kesempatan 2 kali attempt masing-masing 45 menit\n
+		* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261002T034754Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261002T120000Z
+DTEND:20261002T120000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13647@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 3 closes
+DESCRIPTION:	* Diberikan kesempatan 2 kali attempt masing-masing 45 menit\n
+		* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261002T034754Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261002T140000Z
+DTEND:20261002T140000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10722@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #3 opens
+DESCRIPTION:KUIZ WAJIB DIKERJAKAN PERORANGAN\n\nBatas Waktu Pengerjaan\n\nD
+	urasi Pengerjaan : 20 menit\n\n3x Attempt\, `Nilai diambil yang tertinggi\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261003T062521Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T060000Z
+DTEND:20261003T060000Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:164931@lms.telkomuniversity.ac.id
+SUMMARY:LATIHAN (Kata\, Kalimat\, Paragraf) closes
+DESCRIPTION:SOAL DAPAT DIAKSES PADA 28 SEPTEMBER - 3 OKTOBER 2026.\n\n
+CLASS:PUBLIC
+LAST-MODIFIED:20260928T011837Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T100000Z
+DTEND:20261003T100000Z
+CATEGORIES:UBKXCCB2-BS1IF-48-REG-GAB0506
+END:VEVENT
+BEGIN:VEVENT
+UID:13481@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 1 opens
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261002T040753Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T120000Z
+DTEND:20261003T120000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13482@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 2 opens
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261002T040715Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T120000Z
+DTEND:20261003T120000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13645@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 1 closes
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261002T040753Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T133000Z
+DTEND:20261003T133000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13646@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 2 closes
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261002T040715Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T140000Z
+DTEND:20261003T140000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12120@lms.telkomuniversity.ac.id
+SUMMARY:Tugas Individu 2 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261003T170000Z
+DTEND:20261003T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12696@lms.telkomuniversity.ac.id
+SUMMARY:[Tugas] Singly Linked List is due
+DESCRIPTION:Tugas dikerjakan pada minggu ke 3. Tugas ini mencakup materi te
+	ntang insert\, delete\, dan searching pada Singly Linked List. Tugas dikerj
+	akan dengan tulis tangan.\n\nTerima kasih\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261003T043436Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261005T124600Z
+DTEND:20261005T124600Z
+CATEGORIES:CAK2EAB4-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:218027@lms.telkomuniversity.ac.id
+SUMMARY:Quiz CLO-1 opens
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261019T131255Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261008T013000Z
+DTEND:20261008T013000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:217497@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 4 opens
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 08/10/2026\, PUKU
+	L: 18:0 WIB S.D. 14/10/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diberi
+	kan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah 
+	NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah 
+	selama: 40 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261008T045212Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261008T110000Z
+DTEND:20261008T110000Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10755@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #3 closes
+DESCRIPTION:KUIZ WAJIB DIKERJAKAN PERORANGAN\n\nBatas Waktu Pengerjaan\n\nD
+	urasi Pengerjaan : 20 menit\n\n3x Attempt\, `Nilai diambil yang tertinggi\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261003T062521Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261008T165900Z
+DTEND:20261008T165900Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10724@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #4 opens
+DESCRIPTION:KUIS WAJIB PERORANGAN\n\nBatas waktu pengerjaan :\n\n3x attempt
+	\, nilai dirata-ratakan\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T081925Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261008T170000Z
+DTEND:20261008T170000Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13641@lms.telkomuniversity.ac.id
+SUMMARY:Tugas  Sub CLO-03.3.1 is due
+DESCRIPTION:Mahasiswa memahami bagaimana menghitung nilai  peluang terjadin
+	ya suatu peristiwa.\n\nKetentuan Tugas:\n1. Dikerjakan per kelompok Maksima
+	l 3 orang (termasuk koordinator kelompok)\n2. Jawab soal-soal yang diberika
+	n\, jawaban diunggah dalam format PDF/ image\n3. Tugas dikerjakan secara on
+	site di kelas pada jadwal responsi atau kuliah\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261009T013003Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261009T043000Z
+DTEND:20261009T043000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13484@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 4 opens
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261005T030458Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261009T120000Z
+DTEND:20261009T120000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13648@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 4 closes
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261005T030458Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261009T140000Z
+DTEND:20261009T140000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12924@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 2 opens
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan kedua.\n\nMateri
+	 pada pre-test pekan kedua ini mencakup materi pekan pertama dan pekan kedu
+	a.\n\nWaktu pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, denga
+	n nilai yang diambil adalah nilai tertinggi.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T135157Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261009T233000Z
+DTEND:20261009T233000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12926@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 3 opens
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan ketiga.\n\nMater
+	i pada pre-test pekan ketiga ini adalah tentang DFA\, NFA\, serta perbedaan
+	 antara DFA dan NFA.\n\nWaktu pengerjaan 30 menit\, dan maximum attempt ada
+	lah 3 kali\, dengan nilai yang diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T135339Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261009T233000Z
+DTEND:20261009T233000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12928@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 4 opens
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan keempat.\n\nMate
+	ri pada pre-test pekan keempat ini adalah tentang NFA dengan Epsilon move.\
+	n\nWaktu pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, dengan n
+	ilai yang diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T135447Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261009T233000Z
+DTEND:20261009T233000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:215495@lms.telkomuniversity.ac.id
+SUMMARY:[Tambahan Waktu] Pengumpulan Tes 1\, Tes 2\, Tes 3 (Hanya untuk Mah
+	asiswa Dispensasi) is due
+	
+DESCRIPTION:[Tambahan Waktu] Pengumpulan Tes 1\, Tes 2\, Tes 3 (Hanya untuk
+	 Mahasiswa Dispensasi) [1]\n\n\nLinks:\n------\n[1] https://lms.telkomunive
+	rsity.ac.id/mod/assign/view.php?id=835356\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T141717Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261010T113000Z
+DTEND:20261010T113000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12997@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 2 closes
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan kedua.\n\nMateri
+	 pada pre-test pekan kedua ini mencakup materi pekan pertama dan pekan kedu
+	a.\n\nWaktu pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, denga
+	n nilai yang diambil adalah nilai tertinggi.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T135157Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261010T165900Z
+DTEND:20261010T165900Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12998@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 3 closes
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan ketiga.\n\nMater
+	i pada pre-test pekan ketiga ini adalah tentang DFA\, NFA\, serta perbedaan
+	 antara DFA dan NFA.\n\nWaktu pengerjaan 30 menit\, dan maximum attempt ada
+	lah 3 kali\, dengan nilai yang diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T135339Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261010T165900Z
+DTEND:20261010T165900Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12999@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 4 closes
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan keempat.\n\nMate
+	ri pada pre-test pekan keempat ini adalah tentang NFA dengan Epsilon move.\
+	n\nWaktu pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, dengan n
+	ilai yang diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T135447Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261010T165900Z
+DTEND:20261010T165900Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:215510@lms.telkomuniversity.ac.id
+SUMMARY:Pengumpulan Tugas Pekan 4: Non Deterministic Finite Automata (NFA) 
+	dengan ε-move is due
+	
+DESCRIPTION:PETUNJUK TUGAS PEKAN 4\n\nPelajari kembali materi pada SLIDE PE
+	KAN 4: NON-DETERMINISTIC FINITE AUTOMATA DENGAN Ε-MOVE. Pahami tahapan peny
+	elesaian pada slide tersebut sebagai acuan dalam mengerjakan latihan.\n\nPa
+	da halaman terakhir slide terdapat LATIHAN 1 dan LATIHAN 2. Setiap mahasisw
+	a hanya mengerjakan SATU LATIHAN sesuai dengan NIM:\n\n	*\nMahasiswa dengan
+	 NIM GANJIL mengerjakan LATIHAN 1.\n\n	*\nMahasiswa dengan NIM GENAP menger
+	jakan LATIHAN 2.\n\nPenyelesaian tugas harus dikerjakan secara lengkap\, mu
+	lai dari membuat tabel evaluasi lazy (_lazy evaluation_) hingga menggambar 
+	Diagram Transisi Keadaan (State Transition Diagram/STD).\n\nTugas dikerjaka
+	n secara mandiri oleh setiap mahasiswa. Jawaban dikumpulkan dalam bentuk so
+	ftfile sesuai dengan batas waktu yang telah ditentukan.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261006T143340Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261010T165900Z
+DTEND:20261010T165900Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12697@lms.telkomuniversity.ac.id
+SUMMARY:[Tugas] Doubly Linked List is due
+DESCRIPTION:Silahkan kerjakan tugas berikut ini.\n
+CLASS:PUBLIC
+LAST-MODIFIED:20260907T145221Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261011T161100Z
+DTEND:20261011T161100Z
+CATEGORIES:CAK2EAB4-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:164905@lms.telkomuniversity.ac.id
+SUMMARY:LATIHAN PEKAN 5 opens
+DESCRIPTION:Kerjakan latihan ini di pekan 5!\nLatihan dapat diakses pada 12
+	 Oktober 2026.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T000729Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261011T170000Z
+DTEND:20261011T170000Z
+CATEGORIES:UBKXCCB2-BS1IF-48-REG-GAB0506
+END:VEVENT
+BEGIN:VEVENT
+UID:11249@lms.telkomuniversity.ac.id
+SUMMARY:TRY OUT SEB opens
+DESCRIPTION:Terdapat 8 PERTANYAAN pada kuis TRY OUT ini. \n\nWaktu 10 menit
+	.\n\nMODE SEB AKAN AKTIF PADA QUIZ INI. \n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T060328Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261012T060300Z
+DTEND:20261012T060300Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11557@lms.telkomuniversity.ac.id
+SUMMARY:PR 1: kompleksitas waktu dan notasi asimtotik closes
+DESCRIPTION:KUMPULKAN HASIL FOTO/SCAN BERISI PENGERJAAN PR DI LMS HTTPS://L
+	MS.TELKOMUNIVERSITY.AC.ID/MOD/ASSIGN/VIEW.PHP?ID=52269 [1]\n\n\n\nLinks:\n-
+	-----\n[1] https://lms.telkomuniversity.ac.id/mod/assign/view.php?id=52269\
+	n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20260907T142025Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261012T165900Z
+DTEND:20261012T165900Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12121@lms.telkomuniversity.ac.id
+SUMMARY:Tugas Kelompok 1 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261012T170000Z
+DTEND:20261012T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12122@lms.telkomuniversity.ac.id
+SUMMARY:Tugas Individu 3 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261012T170000Z
+DTEND:20261012T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11564@lms.telkomuniversity.ac.id
+SUMMARY:TRY OUT SEB closes
+DESCRIPTION:Terdapat 8 PERTANYAAN pada kuis TRY OUT ini. \n\nWaktu 10 menit
+	.\n\nMODE SEB AKAN AKTIF PADA QUIZ INI. \n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T060328Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261013T000000Z
+DTEND:20261013T000000Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:222998@lms.telkomuniversity.ac.id
+SUMMARY:Quiz 1: Kompleksitas waktu dan notasi asimtotik opens
+DESCRIPTION:WAKTU: 60 MENIT.\n\n16 soal.\n\nMAKSIMAL DILAKSANAKAN PADA PEKA
+	N KE-5.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261013T013903Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261013T003000Z
+DTEND:20261013T003000Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:222999@lms.telkomuniversity.ac.id
+SUMMARY:Quiz 1: Kompleksitas waktu dan notasi asimtotik closes
+DESCRIPTION:WAKTU: 60 MENIT.\n\n16 soal.\n\nMAKSIMAL DILAKSANAKAN PADA PEKA
+	N KE-5.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261013T013903Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261013T014000Z
+DTEND:20261013T014000Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11546@lms.telkomuniversity.ac.id
+SUMMARY:PENGUMPULAN BERKAS PR 1 is due
+DESCRIPTION:Upload berkas berisi pengerjaan PR 1 di sini.\n\nJenis file: pd
+	f/png/jpg\, max 2 MB.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20260907T142024Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261013T165900Z
+DTEND:20261013T165900Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:225984@lms.telkomuniversity.ac.id
+SUMMARY:Post Test: 1 opens
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094620Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261013T170000Z
+DTEND:20261013T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:217498@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 4 closes
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 08/10/2026\, PUKU
+	L: 18:0 WIB S.D. 14/10/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diberi
+	kan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah 
+	NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah 
+	selama: 40 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261008T045212Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261014T165900Z
+DTEND:20261014T165900Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:226049@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 5 opens
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 15/10/2026\, PUKU
+	L: 20:00 WIB S.D. 21/10/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diber
+	ikan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah
+	 NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah
+	 selama: 25 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T124353Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261015T124200Z
+DTEND:20261015T124200Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11552@lms.telkomuniversity.ac.id
+SUMMARY:Pembentukan kelompok Tugas Besar (Due date)
+DESCRIPTION:Kelompok terdiri atas 1-3 mahasiswa.\n\nIsikan kelompok di bagi
+	an ini\, untuk KEPERLUAN PENGUMPULAN LAPORAN [1] DAN SOURCE CODE TUGAS BESA
+	R.\n\n\nLinks:\n------\n[1] https://lms.telkomuniversity.ac.id/mod/assign/v
+	iew.php?id=52314\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20260907T142025Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261015T165900Z
+DTEND:20261015T165900Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12930@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 5 opens
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan kelima.\n\nWaktu
+	 pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, dengan nilai yan
+	g diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T021848Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261016T233000Z
+DTEND:20261016T233000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10726@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #5 opens
+DESCRIPTION:KUIZ WAJIB DIKERJAKAN PERORANGAN\n\nBatas Waktu Pengerjaan\n\nD
+	urasi Pengerjaan : 20 menit\n\nDIAMBIL NILAI RATA-RATA\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261017T064909Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261017T060000Z
+DTEND:20261017T060000Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:164932@lms.telkomuniversity.ac.id
+SUMMARY:LATIHAN PEKAN 5 closes
+DESCRIPTION:Kerjakan latihan ini di pekan 5!\nLatihan dapat diakses pada 12
+	 Oktober 2026.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261012T000729Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261017T100000Z
+DTEND:20261017T100000Z
+CATEGORIES:UBKXCCB2-BS1IF-48-REG-GAB0506
+END:VEVENT
+BEGIN:VEVENT
+UID:13000@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 5 closes
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan kelima.\n\nWaktu
+	 pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, dengan nilai yan
+	g diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T021848Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261017T140000Z
+DTEND:20261017T140000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12123@lms.telkomuniversity.ac.id
+SUMMARY:Tugas Individu 4 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261017T170000Z
+DTEND:20261017T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12698@lms.telkomuniversity.ac.id
+SUMMARY:[Tugas] Stack is due
+DESCRIPTION:Ketentuan Tugas:\n\n	* Setiap mahasiswa mengerjakan tugas ini d
+	engan cara tulis tangan di sebuah kertas.\n\n	* Foto jawaban dan upload jaw
+	aban berupa file pdf.\n	* Tulis Nama dan NIM di dalam kertas dan file jawab
+	an.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20260907T145221Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261018T161200Z
+DTEND:20261018T161200Z
+CATEGORIES:CAK2EAB4-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:164906@lms.telkomuniversity.ac.id
+SUMMARY:LATIHAN PEKAN 6 opens
+DESCRIPTION:Kerjakan latihan di pekan 6 ini!\nSoal dapat diakses pada 19 - 
+	24 Oktober 2026\, sebelum pukul 17.00 WIB.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261018T233317Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261018T170000Z
+DTEND:20261018T170000Z
+CATEGORIES:UBKXCCB2-BS1IF-48-REG-GAB0506
+END:VEVENT
+BEGIN:VEVENT
+UID:10756@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #4 closes
+DESCRIPTION:KUIS WAJIB PERORANGAN\n\nBatas waktu pengerjaan :\n\n3x attempt
+	\, nilai dirata-ratakan\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T081925Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261019T165900Z
+DTEND:20261019T165900Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:225419@lms.telkomuniversity.ac.id
+SUMMARY:Pengumpulan Tugas Pekan 5: Minimisasi DFA is due
+DESCRIPTION:Pada halaman terakhir slide pekan kelima terdapat latihan yang 
+	wajib dikerjakan secara mandiri oleh setiap mahasiswa. Jawaban dapat dituli
+	s tangan kemudian difoto atau dikerjakan menggunakan perangkat lunak.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T022743Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261019T165900Z
+DTEND:20261019T165900Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:225985@lms.telkomuniversity.ac.id
+SUMMARY:Post Test: 1 closes
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094620Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261019T170000Z
+DTEND:20261019T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:218028@lms.telkomuniversity.ac.id
+SUMMARY:Quiz CLO-1 closes
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261019T131255Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261020T163000Z
+DTEND:20261020T163000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10734@lms.telkomuniversity.ac.id
+SUMMARY:TUGAS KELOMPOK : PROJECT #1 is due
+DESCRIPTION:PROJECT KELOMPOK\nSetiap Kelompok mahasiswa harus melakukan akt
+	ifitas sesuai dengan yang ada dalam file deskripsi instruksi\n\nBATAS WAKTU
+	 PENGUMPULAN : .....\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T082012Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261020T165900Z
+DTEND:20261020T165900Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:226050@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 5 closes
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 15/10/2026\, PUKU
+	L: 20:00 WIB S.D. 21/10/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diber
+	ikan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah
+	 NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah
+	 selama: 25 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T124353Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261021T165900Z
+DTEND:20261021T165900Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:232663@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 6 opens
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 22/10/2026\, PUKU
+	L: 18:00 WIB S.D. 04/11/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diber
+	ikan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah
+	 NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah
+	 selama: 40 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261021T040542Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261022T110000Z
+DTEND:20261022T110000Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:232689@lms.telkomuniversity.ac.id
+SUMMARY:Quiz Pertemuan 7 opens
+DESCRIPTION:	* QUIZ dikerjakan secara INDIVIDU mulai dari 22/10/2026\, PUKU
+	L: 18:00 WIB S.D. 04/11/2026\, PUKUL: 23:59 WIB.\n	* Pelaksanaan QUIZ diber
+	ikan kesempatan mengerjakan sebanyak 3 KALI\, dan nilai yang diambil adalah
+	 NILAI TERTINGGI dari kesempatan tersebut.\n	* Waktu pengerjaan QUIZ adalah
+	 selama: 50 MENIT.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261021T040801Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261022T110000Z
+DTEND:20261022T110000Z
+CATEGORIES:CAK2DAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10757@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #5 closes
+DESCRIPTION:KUIZ WAJIB DIKERJAKAN PERORANGAN\n\nBatas Waktu Pengerjaan\n\nD
+	urasi Pengerjaan : 20 menit\n\nDIAMBIL NILAI RATA-RATA\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261017T064909Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261022T165900Z
+DTEND:20261022T165900Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13485@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 5 opens
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261022T073357Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261023T120000Z
+DTEND:20261023T120000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:13649@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Minggu 5 closes
+DESCRIPTION:Kerjakan soal-soal berikut:\n\n	* Diberikan kesempatan 2 kali a
+	ttempt masing-masing 45 menit\n	* Diambil nilai terbaik\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261022T073357Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261023T140000Z
+DTEND:20261023T140000Z
+CATEGORIES:CAK2GAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:233960@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Awal Modul 7 IF-49-08 opens
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261023T122426Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261023T170000Z
+DTEND:20261023T170000Z
+CATEGORIES:PRAK-26271-CAK2DAB3-IF
+END:VEVENT
+BEGIN:VEVENT
+UID:12933@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 6 opens
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan keenam.\n\nWaktu
+	 pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, dengan nilai yan
+	g diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261023T062738Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261023T232000Z
+DTEND:20261023T232000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10728@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #6 opens
+DESCRIPTION:KUIZ WAJIB DIKERJAKAN PERORANGAN\n\nBatas Waktu Pengerjaan\n\nD
+	urasi Pengerjaan : 20 menit\n\n3X ATTEMPT DIAMBIL NILAI TERTINGGI\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261024T065644Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261024T070000Z
+DTEND:20261024T070000Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:164933@lms.telkomuniversity.ac.id
+SUMMARY:LATIHAN PEKAN 6 closes
+DESCRIPTION:Kerjakan latihan di pekan 6 ini!\nSoal dapat diakses pada 19 - 
+	24 Oktober 2026\, sebelum pukul 17.00 WIB.\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261018T233317Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261024T100000Z
+DTEND:20261024T100000Z
+CATEGORIES:UBKXCCB2-BS1IF-48-REG-GAB0506
+END:VEVENT
+BEGIN:VEVENT
+UID:13001@lms.telkomuniversity.ac.id
+SUMMARY:Pre-Test Pekan 6 closes
+DESCRIPTION:CLO:\n\nCLO 1. Mahasiwa mampu merancang Finite Automata dan Reg
+	ular Expression untuk memodelkan persoalan komputasi dengan tepat.\n\nPre-T
+	est ini disubmit maksimal sebelum jadwal perkuliahan pekan keenam.\n\nWaktu
+	 pengerjaan 30 menit\, dan maximum attempt adalah 3 kali\, dengan nilai yan
+	g diambil adalah nilai tertinggi.\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261023T062738Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261024T143000Z
+DTEND:20261024T143000Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10744@lms.telkomuniversity.ac.id
+SUMMARY:Pembentukan Kelompok Tugas Besar (Due date)
+DESCRIPTION:Buatlah kelompok tugas besar dengan anggota\nMinimal 3 orang da
+	n Maksimal 5 orang\n\nKetentuan pembentukan kelompok tugas dapat diatur ole
+	h dosen kelas masing - masing\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261024T070146Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261025T165900Z
+DTEND:20261025T165900Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11845@lms.telkomuniversity.ac.id
+SUMMARY:Post Test 2 opens
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261025T170000Z
+DTEND:20261025T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:234038@lms.telkomuniversity.ac.id
+SUMMARY:Kuis Awal Modul 7 IF-49-08 closes
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261023T122426Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261025T230000Z
+DTEND:20261025T230000Z
+CATEGORIES:PRAK-26271-CAK2DAB3-IF
+END:VEVENT
+BEGIN:VEVENT
+UID:235441@lms.telkomuniversity.ac.id
+SUMMARY:TP Modul 7 - Stack is due
+DESCRIPTION:Soal: \n\n	* TP MODUL 7 [1]\n	* PT MODULE 7 (ENG VER) [2]\n\nDI
+	WAJIBKAN MENGGUNAKAN CODEBLOCKS UNTUK WINDOWS\, UNTUK MAC MENGGUNAKAN XCODE
+	\n\nJawaban dikumpulkan dalam bentuk FILE PDF\,dengan format TP_MOD_XX_NIM_
+	NAMA\n\nPerhatikan tenggat waktu pengumpulan. Pengumpulan di luar LMS\, dal
+	am bentuk apapun\, tidak akan diterima.\n\n\n\nLinks:\n------\n[1] https://
+	telkomuniversityofficial-my.sharepoint.com/:b:/g/personal/informaticslab_te
+	lkomuniversity_ac_id/IQDu3WZpg5PKSrUn-D60qXvbAXBsFaes6bBq_AHackaqcuw\n[2] h
+	ttps://telkomuniversityofficial-my.sharepoint.com/:b:/g/personal/informatic
+	slab_telkomuniversity_ac_id/IQDRzIHG3IBgS4se3OPk3mrpAUq5fFiEhkNqhCuU5K-dFEc
+	\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261024T173127Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261025T230000Z
+DTEND:20261025T230000Z
+CATEGORIES:PRAK-26271-CAK2EAB4-IF
+END:VEVENT
+BEGIN:VEVENT
+UID:236257@lms.telkomuniversity.ac.id
+SUMMARY:Pengumpulan Tugas Pekan 6: Operasi pada Bahasa Reguler is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261023T091153Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261026T165900Z
+DTEND:20261026T165900Z
+CATEGORIES:CAK2FAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11239@lms.telkomuniversity.ac.id
+SUMMARY:Quiz 2: Analisis matematis algoritma iteratif opens
+DESCRIPTION:WAKTU: 45 MENIT.\n\n11 SOAL.\n\nMaksimal dilaksanakan pada AKHI
+	R pekan ke-7 atau AWAL pekan ke-8\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261025T015454Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261027T003000Z
+DTEND:20261027T003000Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:11554@lms.telkomuniversity.ac.id
+SUMMARY:Quiz 2: Analisis matematis algoritma iteratif closes
+DESCRIPTION:WAKTU: 45 MENIT.\n\n11 SOAL.\n\nMaksimal dilaksanakan pada AKHI
+	R pekan ke-7 atau AWAL pekan ke-8\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261025T015454Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261027T013000Z
+DTEND:20261027T013000Z
+CATEGORIES:CAK2BAB2-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10735@lms.telkomuniversity.ac.id
+SUMMARY:TUGAS INDIVIDU : PROJECT #2 is due
+DESCRIPTION:PROJECT WAJIB INDIVIDU\nMEMBUAT PEMODELAN ANALISIS : USECASE DI
+	AGRAM dan USECASE SCENARIO\n\nBATAS WAKTU PENGUMPULAN : .....\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20260907T131717Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261027T165900Z
+DTEND:20261027T165900Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10736@lms.telkomuniversity.ac.id
+SUMMARY:TUGAS INDIVIDU : PROJECT#3 is due
+DESCRIPTION:PROJECT WAJIB INDIVIDU\nMEMBUAT PEMODELAN CLASS DIAGRAM dan ACT
+	IVITY DIAGRAM\n\nHANYA KUMPULKAN HASIL INDIVIDU\n\nBATAS WAKTU PENGUMPULAN 
+	: \n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261024T065729Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261030T164500Z
+DTEND:20261030T164500Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:10758@lms.telkomuniversity.ac.id
+SUMMARY:QUIZ #6 closes
+DESCRIPTION:KUIZ WAJIB DIKERJAKAN PERORANGAN\n\nBatas Waktu Pengerjaan\n\nD
+	urasi Pengerjaan : 20 menit\n\n3X ATTEMPT DIAMBIL NILAI TERTINGGI\n\n
+	
+CLASS:PUBLIC
+LAST-MODIFIED:20261024T065644Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261030T165500Z
+DTEND:20261030T165500Z
+CATEGORIES:CAK2AAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12124@lms.telkomuniversity.ac.id
+SUMMARY:Tugas Individu 5 is due
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261031T170000Z
+DTEND:20261031T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+BEGIN:VEVENT
+UID:12145@lms.telkomuniversity.ac.id
+SUMMARY:Post Test 2 closes
+DESCRIPTION:
+CLASS:PUBLIC
+LAST-MODIFIED:20261015T094252Z
+DTSTAMP:20261025T101819Z
+DTSTART:20261031T170000Z
+DTEND:20261031T170000Z
+CATEGORIES:CAK2CAB3-BS1IF-49-REG08
+END:VEVENT
+END:VCALENDAR
